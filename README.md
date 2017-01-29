@@ -1,6 +1,18 @@
-# RubyConf India 2017 Contest
+TODO
 
-## BlackJack 
+#### Dealer's Turn:
+
+When the Player completes their turn and the Player is not Busted, the Dealer then has to
+
+* HIT themself if their score is less than <=17 until they reach a score >17
+* STAND if their score >17
+
+
+`ruby game.rb`
+
+# RubyConf India 2017 Contest Question
+
+## BlackJack
 
 ### Contest start: 28th Jan 2017 - 11:00 am
 ### Contest end:  29th Jan 2017 - 11:00 am
@@ -56,7 +68,7 @@ When both Player and Dealer have the same score, the game is a draw.
 
 ### Game Rules
 
-The solution to the problem should be object oriented. It should be solved in Ruby. 
+The solution to the problem should be object oriented. It should be solved in Ruby.
 
 #### P.S: We are not looking for the complete solution to the problem, but are looking for one’s approach at solving it.
 
